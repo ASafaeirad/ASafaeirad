@@ -5,6 +5,9 @@
 
 ## Hi there 👋, I'm Alireza!
 
+<a href="https://asafaeirad.com/">![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=F3CB65&logoColor=333)</a>
+<a href="https://www.linkedin.com/in/asafaeirad/">![ASafaeirad.com](https://img.shields.io/badge/-Website-black.svg?style=flat-square&logo=linkedin&color=F3CB65&logoColor=333)</a>
+
 </div>
 
 > A Software engineer with +15 years of professional experience.
@@ -19,7 +22,5 @@ $ npx alireza@latest
 ![console](https://raw.githubusercontent.com/ASafaeirad/ASafaeirad/main/assets/console-light.png#gh-light-mode-only)
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/asafaeirad/">![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=F3CB65&logoColor=333)</a>
 
 </div>
