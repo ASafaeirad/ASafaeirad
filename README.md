@@ -5,8 +5,8 @@
 
 ## Hi there 👋, I'm Alireza!
 
-<a href="https://asafaeirad.com/">![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=F3CB65&logoColor=333)</a>
-<a href="https://www.linkedin.com/in/asafaeirad/">![ASafaeirad.com](https://img.shields.io/badge/-Website-black.svg?style=flat-square&logo=linkedin&color=F3CB65&logoColor=333)</a>
+<a href="https://www.linkedin.com/in/asafaeirad/">![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=F3CB65&logoColor=333)</a>
+<a href="https://asafaeirad.com/">![ASafaeirad.com](https://img.shields.io/badge/-Website-black.svg?style=flat-square&logo=linkedin&color=F3CB65&logoColor=333)</a>
 
 </div>
 
