@@ -14,7 +14,7 @@
 > I'm curious and passionate about learning, and crafting new things..
 
 ```bash
-$ curl asafaeirad.com
+$ curl -s asafaeirad.com
 $ npx alireza@latest
 ```
 
