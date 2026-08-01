@@ -18,9 +18,6 @@ $ curl -s asafaeirad.com
 $ npx alireza@latest
 ```
 
-![console](https://raw.githubusercontent.com/ASafaeirad/ASafaeirad/main/assets/console.png#gh-dark-mode-only)
-![console](https://raw.githubusercontent.com/ASafaeirad/ASafaeirad/main/assets/console-light.png#gh-light-mode-only)
-
 <div align="center">
 
 </div>
